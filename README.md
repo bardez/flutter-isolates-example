@@ -2,8 +2,6 @@
 
 A Flutter project that works with isolates.
 
-## Repository
-
 ## References
 
 - [https://docs.flutter.dev/cookbook/networking/background-parsing#4-move-this-work-to-a-separate-isolate](https://docs.flutter.dev/cookbook/networking/background-parsing#4-move-this-work-to-a-separate-isolate)
