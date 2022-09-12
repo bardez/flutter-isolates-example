@@ -7,7 +7,7 @@ A Flutter project that works with isolates.
 - Low-level Way
   - Using [Isolate.spawn()](https://api.dart.dev/stable/2.15.1/dart-isolate/Isolate/spawn.html), SendPort and ReceivePort to manipulate data and "move between isolates"
 - One-Function Way
-  - Using a flutter [compute()](https://docs-flutter-io.firebaseapp.com/flutter/foundation/compute.html) function to create a instant isolate.
+  - Using a flutter [compute()](https://api.flutter.dev/flutter/foundation/compute-constant.html) function to create a instant isolate.
 
 ## References
 
